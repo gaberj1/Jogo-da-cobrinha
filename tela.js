@@ -1,7 +1,7 @@
-const tela = {
+const tela={
     largura:800,
     altura:400,
-    cor:""#286047"",
+    cor:"#286047",
 	esterEgg:true,
     desenhar: function(){
         canvasCtx.fillStyle= this.cor;
